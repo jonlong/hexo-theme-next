@@ -57,9 +57,10 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-scheme: Muse
-#scheme: Mist
-#scheme: Pisces
+# scheme: Muse
+# scheme: Mist
+# scheme: Pisces
+scheme: Jon
 
 
 
